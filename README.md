@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # profile_page
 =======
+=======
+>>>>>>> 32d9f448fe2987e2fa366c295b92aabe8c9fc86c
 # profile_page
 
 A new Flutter project.
@@ -17,4 +20,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> 32d9f44 (1)
+=======
+>>>>>>> 32d9f448fe2987e2fa366c295b92aabe8c9fc86c
