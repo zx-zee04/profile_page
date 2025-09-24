@@ -1,4 +1,4 @@
-![Gambar Profil](assets/profil.jpg)
+![Gambar Profil](profile_page.assets/profil.jpg)
 # profile_page
 =======
 =======
