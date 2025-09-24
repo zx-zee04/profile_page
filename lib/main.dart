@@ -53,7 +53,7 @@ class ProfilePage extends StatelessWidget {
 
                 // Nama
                 const Text(
-                  "Muhamamd Nur Ramadhan",
+                  "Muhammad Nur Ramadhan",
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
@@ -61,13 +61,13 @@ class ProfilePage extends StatelessWidget {
                 ),
 
                 // Deskripsi
-                const Text(
-                  "Out Of The Box is Keyless",
-                  style: TextStyle(
-                    fontSize: 14,
-                    color: Colors.white70,
-                  ),
-                ),
+                // const Text(
+                //   "Out Of The Box is Keyless",
+                //   style: TextStyle(
+                //     fontSize: 14,
+                //     color: Colors.white70,
+                //   ),
+                // ),
 
                 const SizedBox(height: 25),
 
@@ -95,7 +95,7 @@ class ProfilePage extends StatelessWidget {
                       const Divider(),
                       ListTile(
                         leading: const Icon(Icons.phone, color: Colors.green),
-                        title: const Text("+62 8privasi"),
+                        title: const Text("+62 8** **** ****"),
                       ),
                       const Divider(),
                       ListTile(
