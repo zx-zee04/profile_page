@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+![Gambar Profil](assets/profil.jpg)
 # profile_page
 =======
 =======
